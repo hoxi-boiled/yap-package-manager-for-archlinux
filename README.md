@@ -1,4 +1,4 @@
-# yay-package-manager-for-archlinux
+# yap-package-manager-for-archlinux
 YAP - It’s a merger of AUR and pacman into a single package manager.
 
 
